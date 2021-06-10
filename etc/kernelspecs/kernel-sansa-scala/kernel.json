@@ -5,8 +5,8 @@
     "process_proxy": {
       "class_name": "enterprise_gateway.services.processproxies.k8s.KubernetesProcessProxy",
       "config": {
-        "image_name": "kernel-sansa-scala:0.0.1",
-        "executor_image_name": "kernel-sansa-scala:0.0.1"
+        "image_name": "kernel-sansa-scala:0.2.0",
+        "executor_image_name": "kernel-sansa-scala:0.2.0"
       }
     }
   },
